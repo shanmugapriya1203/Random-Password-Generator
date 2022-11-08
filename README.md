@@ -1,5 +1,5 @@
-# Random-Password-Generator
- ![Uploading 2022-11-08.png…]()
+# Random-Password-Generator<img width="585" alt="2022-11-08" src="https://user-images.githubusercontent.com/110707278/200642053-5b03fa50-d378-489c-ae10-9466ae2fdb00.png">
+
 
 1. Creating app structure with HTML
   1.  A box to show the generated password and a copy button to copy the password.
